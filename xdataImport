@@ -1,4 +1,4 @@
-# X DATA IMPORT
+% X DATA IMPORT
 
 function [x1A, x1B, x1C, x2A, x2B, x2C] = xdataImport(i)
 
