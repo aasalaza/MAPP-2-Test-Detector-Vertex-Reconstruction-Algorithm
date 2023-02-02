@@ -1,4 +1,4 @@
-% LINEAR FIT POINT SELECTOR FOR BOTTOM AND TOP CASES
+% LINEAR FIT POINT SELECTOR FOR BOTTOM CASE
 
 function [lfit, mfit, nfit, c] = linfit3DptsSelector_BMface(l, m, n)
 
